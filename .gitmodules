@@ -1,0 +1,12 @@
+[submodule "External/Nimble"]
+	path = External/Nimble
+	url = git@github.com:feinstruktur/Nimble.git
+[submodule "External/aerogear-diffmatchpatch"]
+	path = External/aerogear-diffmatchpatch
+	url = git@github.com:feinstruktur/aerogear-diffmatchpatch-ios.git
+[submodule "External/FeinstrukturUtils"]
+	path = External/FeinstrukturUtils
+	url = git@github.com:feinstruktur/FeinstrukturUtils.git
+[submodule "External/PocketSocket"]
+	path = External/PocketSocket
+	url = git@github.com:feinstruktur/PocketSocket.git
